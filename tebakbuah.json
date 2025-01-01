@@ -1,0 +1,508 @@
+
+[
+  {
+    "index": 0,
+    "soal": "Warnaku merah, biji ku hitam, rasaku manis kadang asem. Buah apakah aku?",
+    "jawaban": "Apel"
+  },
+  {
+    "index": 1,
+    "soal": "Kulitku berduri tajam, aromaku kuat, dagingku kuning dan lembut. Buah apakah aku?",
+    "jawaban": "Durian"
+  },
+  {
+    "index": 2,
+    "soal": "Kulitku kuning, bentukku lonjong, rasaku manis. Buah apakah aku?",
+    "jawaban": "Pisang"
+  },
+  {
+    "index": 3,
+    "soal": "Kulitku hijau atau kuning, airku segar, rasaku asam manis. Buah apakah aku?",
+    "jawaban": "Jeruk"
+  },
+  {
+    "index": 4,
+    "soal": "Kulitku merah muda, bijinya besar dan keras, dagingku putih. Buah apakah aku?",
+    "jawaban": "Jambu"
+  },
+  {
+    "index": 5,
+    "soal": "Kulitku hijau, dagingku merah, rasaku manis dan segar. Buah apakah aku?",
+    "jawaban": "Semangka"
+  },
+  {
+    "index": 6,
+    "soal": "Kulitku coklat berbulu, dagingku coklat, rasaku manis. Buah apakah aku?",
+    "jawaban": "Kiwi"
+  },
+  {
+    "index": 7,
+    "soal": "Bentukku bulat, kulitku ungu, dagingku putih berair. Buah apakah aku?",
+    "jawaban": "Manggis"
+  },
+  {
+    "index": 8,
+    "soal": "Kulitku kuning keemasan, dagingku manis, aku raja buah. Buah apakah aku?",
+    "jawaban": "Nanas"
+  },
+  {
+    "index": 9,
+    "soal": "Aku buah tropis, airku segar, warnaku hijau muda. Buah apakah aku?",
+    "jawaban": "Kelapa"
+  },
+  {
+    "index": 10,
+    "soal": "Kulitku hijau berbintik putih, dagingku oranye, aku kaya vitamin C. Buah apakah aku?",
+    "jawaban": "Pepaya"
+  },
+  {
+    "index": 11,
+    "soal": "Bentukku panjang melengkung, kulitku kuning, aku suka digantung. Buah apakah aku?",
+    "jawaban": "Pisang"
+  },
+  {
+    "index": 12,
+    "soal": "Kulitku kasar dan berbulu, dagingku putih, airku manis. Buah apakah aku?",
+    "jawaban": "Rambutan"
+  },
+  {
+    "index": 13,
+    "soal": "Kulitku berwarna ungu tua, dagingku ungu muda, rasaku manis. Buah apakah aku?",
+    "jawaban": "Anggur"
+  },
+  {
+    "index": 14,
+    "soal": "Aku bulat dan kecil, warnaku merah, rasaku asam manis. Buah apakah aku?",
+    "jawaban": "Strawberry"
+  },
+  {
+    "index": 15,
+    "soal": "Kulitku hijau, dagingku kuning, rasaku manis legit. Buah apakah aku?",
+    "jawaban": "Mangga"
+  },
+  {
+    "index": 16,
+    "soal": "Bentukku bulat, kulitku oranye, dagingku bersekat-sekat. Buah apakah aku?",
+    "jawaban": "Jeruk"
+  },
+  {
+    "index": 17,
+    "soal": "Kulitku hitam, dagingku ungu, biasa jadi es. Buah apakah aku?",
+    "jawaban": "Buah Naga"
+  },
+  {
+    "index": 18,
+    "soal": "Aku kecil dan bulat, warnaku ungu kehitaman, rasaku manis. Buah apakah aku?",
+    "jawaban": "Anggur"
+  },
+  {
+    "index": 19,
+    "soal": "Kulitku kuning, dagingku putih, rasaku asam segar. Buah apakah aku?",
+    "jawaban": "Lemon"
+  },
+  {
+    "index": 20,
+    "soal": "Aku bulat dan keras, kulitku coklat, dagingku putih. Buah apakah aku?",
+    "jawaban": "Kelapa"
+  },
+  {
+    "index": 21,
+    "soal": "Kulitku hijau kekuningan, dagingku lembut, rasaku manis seperti madu. Buah apakah aku?",
+    "jawaban": "Melon"
+  },
+  {
+    "index": 22,
+    "soal": "Aku berbentuk hati, warnaku merah, rasaku manis segar. Buah apakah aku?",
+    "jawaban": "Persik"
+  },
+  {
+    "index": 23,
+    "soal": "Kulitku hijau berbintik, dagingku merah muda, rasaku manis segar. Buah apakah aku?",
+    "jawaban": "Semangka"
+  },
+  {
+    "index": 24,
+    "soal": "Aku kecil dan bulat, warnaku merah atau hitam, rasaku manis asam. Buah apakah aku?",
+    "jawaban": "Cherry"
+  },
+  {
+    "index": 25,
+    "soal": "Kulitku oranye, bentukku lonjong, rasaku manis asam. Buah apakah aku?",
+    "jawaban": "Jeruk Mandarin"
+  },
+  {
+    "index": 26,
+    "soal": "Kulitku coklat, dagingku putih kekuningan, rasaku gurih. Buah apakah aku?",
+    "jawaban": "Kenari"
+  },
+  {
+    "index": 27,
+    "soal": "Aku buah tropis, kulitku berduri, dagingku kuning harum. Buah apakah aku?",
+    "jawaban": "Nanas"
+  },
+  {
+    "index": 28,
+    "soal": "Kulitku merah muda, dagingku putih, bijinya hitam. Buah apakah aku?",
+    "jawaban": "Naga"
+  },
+  {
+    "index": 29,
+    "soal": "Aku kecil dan bulat, warnaku ungu tua, rasaku manis. Buah apakah aku?",
+    "jawaban": "Blueberry"
+  },
+  {
+    "index": 30,
+    "soal": "Kulitku hijau, dagingku putih, airku segar manis. Buah apakah aku?",
+    "jawaban": "Melon"
+  },
+  {
+    "index": 31,
+    "soal": "Aku buah kecil, warnaku merah, rasaku asam manis. Buah apakah aku?",
+    "jawaban": "Kranberi"
+  },
+  {
+    "index": 32,
+    "soal": "Kulitku kuning cerah, dagingku putih, rasaku asam segar. Buah apakah aku?",
+    "jawaban": "Lemon"
+  },
+  {
+    "index": 33,
+    "soal": "Aku buah tropis, kulitku coklat, airku segar manis. Buah apakah aku?",
+    "jawaban": "Kelapa"
+  },
+  {
+    "index": 34,
+    "soal": "Kulitku hijau kecoklatan, dagingku hijau lembut, rasaku creamy. Buah apakah aku?",
+    "jawaban": "Alpukat"
+  },
+  {
+    "index": 35,
+    "soal": "Aku kecil dan manis, warnaku merah cerah, tumbuh di kebun. Buah apakah aku?",
+    "jawaban": "Stroberi"
+  },
+  {
+    "index": 36,
+    "soal": "Kulitku oranye, bentukku bulat, kaya vitamin C. Buah apakah aku?",
+    "jawaban": "Jeruk"
+  },
+  {
+    "index": 37,
+    "soal": "Aku buah kecil, warnaku ungu gelap, tumbuh di pohon tinggi. Buah apakah aku?",
+    "jawaban": "Anggur"
+  },
+  {
+    "index": 38,
+    "soal": "Kulitku merah muda, dagingku putih renyah, rasaku manis segar. Buah apakah aku?",
+    "jawaban": "Apel"
+  },
+  {
+    "index": 39,
+    "soal": "Aku buah tropis, kulitku bersisik, dagingku kuning manis. Buah apakah aku?",
+    "jawaban": "Salak"
+  },
+  {
+    "index": 40,
+    "soal": "Kulitku hijau atau kuning, dagingku putih, rasaku manis. Buah apakah aku?",
+    "jawaban": "Pir"
+  },
+  {
+    "index": 41,
+    "soal": "Aku buah kecil, warnaku hitam, rasaku manis. Buah apakah aku?",
+    "jawaban": "Blackberry"
+  },
+  {
+    "index": 42,
+    "soal": "Kulitku ungu tua mengkilap, dagingku putih berair, rasaku manis. Buah apakah aku?",
+    "jawaban": "Manggis"
+  },
+  {
+    "index": 43,
+    "soal": "Aku buah tropis, kulitku kuning, rasaku asam manis. Buah apakah aku?",
+    "jawaban": "Belimbing"
+  },
+  {
+    "index": 44,
+    "soal": "Kulitku berbulu halus, dagingku oranye, rasaku manis. Buah apakah aku?",
+    "jawaban": "Persik"
+  },
+  {
+    "index": 45,
+    "soal": "Aku buah kecil, warnaku merah cerah, rasaku asam manis. Buah apakah aku?",
+    "jawaban": "Raspberry"
+  },
+  {
+    "index": 46,
+    "soal": "Kulitku hijau, dagingku merah muda, bijinya hitam banyak. Buah apakah aku?",
+    "jawaban": "Jambu Biji"
+  },
+  {
+    "index": 47,
+    "soal": "Aku buah tropis, kulitku kuning, bentukku seperti bintang. Buah apakah aku?",
+    "jawaban": "Belimbing"
+  },
+  {
+    "index": 48,
+    "soal": "Kulitku merah keunguan, dagingku merah, rasaku manis. Buah apakah aku?",
+    "jawaban": "Plum"
+  },
+  {
+    "index": 49,
+    "soal": "Aku buah kecil, warnaku oranye, rasaku asam manis. Buah apakah aku?",
+    "jawaban": "Kumquat"
+  },
+  {
+    "index": 50,
+    "soal": "Kulitku hijau, dagingku kuning, aromaku harum. Buah apakah aku?",
+    "jawaban": "Mangga"
+  },
+  {
+    "index": 51,
+    "soal": "Aku buah tropis, kulitku merah, dagingku putih berair. Buah apakah aku?",
+    "jawaban": "Jambu Air"
+  },
+  {
+    "index": 52,
+    "soal": "Kulitku hijau kekuningan, dagingku putih, rasaku manis segar. Buah apakah aku?",
+    "jawaban": "Pir"
+  },
+  {
+    "index": 53,
+    "soal": "Aku buah kecil, warnaku ungu, tumbuh di hutan. Buah apakah aku?",
+    "jawaban": "Blackcurrant"
+  },
+  {
+    "index": 54,
+    "soal": "Kulitku coklat berbulu, dagingku hijau, rasaku manis. Buah apakah aku?",
+    "jawaban": "Kiwi"
+  },
+  {
+    "index": 55,
+    "soal": "Aku buah tropis, kulitku merah muda, dagingku putih. Buah apakah aku?",
+    "jawaban": "Jambu"
+  },
+  {
+    "index": 56,
+    "soal": "Kulitku kuning kehijauan, dagingku putih, rasaku asam. Buah apakah aku?",
+    "jawaban": "Jeruk Nipis"
+  },
+  {
+    "index": 57,
+    "soal": "Aku buah kecil, warnaku merah atau kuning, rasaku manis. Buah apakah aku?",
+    "jawaban": "Cherry"
+  },
+  {
+    "index": 58,
+    "soal": "Kulitku hijau kecoklatan, dagingku oranye, rasaku manis. Buah apakah aku?",
+    "jawaban": "Pepaya"
+  },
+  {
+    "index": 59,
+    "soal": "Aku buah tropis, kulitku berduri, rasaku manis asam. Buah apakah aku?",
+    "jawaban": "Sirsak"
+  },
+  {
+    "index": 60,
+    "soal": "Kulitku merah atau hijau, dagingku putih, rasaku renyah. Buah apakah aku?",
+    "jawaban": "Apel"
+  },
+  {
+    "index": 61,
+    "soal": "Aku buah kecil, warnaku ungu tua, tumbuh di kebun. Buah apakah aku?",
+    "jawaban": "Anggur"
+  },
+  {
+    "index": 62,
+    "soal": "Kulitku kuning cerah, dagingku kuning, rasaku manis asam. Buah apakah aku?",
+    "jawaban": "Nanas"
+  },
+  {
+    "index": 63,
+    "soal": "Aku buah tropis, kulitku hitam, dagingku ungu. Buah apakah aku?",
+    "jawaban": "Buah Naga"
+  },
+  {
+    "index": 64,
+    "soal": "Kulitku hijau, dagingku merah muda, bijinya coklat. Buah apakah aku?",
+    "jawaban": "Guava"
+  },
+  {
+    "index": 65,
+    "soal": "Aku buah kecil, warnaku merah cerah, rasaku asam. Buah apakah aku?",
+    "jawaban": "Kranberi"
+  },
+  {
+    "index": 66,
+    "soal": "Kulitku oranye, dagingku oranye, kaya vitamin. Buah apakah aku?",
+    "jawaban": "Jeruk"
+  },
+  {
+    "index": 67,
+    "soal": "Aku buah tropis, kulitku coklat, airku manis. Buah apakah aku?",
+    "jawaban": "Kelapa"
+  },
+  {
+    "index": 68,
+    "soal": "Kulitku merah keunguan, dagingku kuning, rasaku manis. Buah apakah aku?",
+    "jawaban": "Manggis"
+  },
+  {
+    "index": 69,
+    "soal": "Aku buah kecil, warnaku biru gelap, rasaku manis. Buah apakah aku?",
+    "jawaban": "Blueberry"
+  },
+  {
+    "index": 70,
+    "soal": "Kulitku hijau, dagingku putih kehijauan, rasaku segar. Buah apakah aku?",
+    "jawaban": "Melon"
+  },
+  {
+    "index": 71,
+    "soal": "Aku buah tropis, kulitku bersisik coklat, rasaku manis. Buah apakah aku?",
+    "jawaban": "Salak"
+  },
+  {
+    "index": 72,
+    "soal": "Kulitku kuning, bentukku panjang, sering jadi camilan. Buah apakah aku?",
+    "jawaban": "Pisang"
+  },
+  {
+    "index": 73,
+    "soal": "Aku buah kecil, warnaku merah gelap, rasaku manis asam. Buah apakah aku?",
+    "jawaban": "Raspberry"
+  },
+  {
+    "index": 74,
+    "soal": "Kulitku hijau berbintik, dagingku merah, rasaku segar. Buah apakah aku?",
+    "jawaban": "Semangka"
+  },
+  {
+    "index": 75,
+    "soal": "Aku buah tropis, kulitku kuning keemasan, bentukku bintang. Buah apakah aku?",
+    "jawaban": "Belimbing"
+  },
+  {
+    "index": 76,
+    "soal": "Kulitku oranye kemerahan, dagingku oranye, rasaku manis. Buah apakah aku?",
+    "jawaban": "Persik"
+  },
+  {
+    "index": 77,
+    "soal": "Aku buah kecil, warnaku hitam mengkilap, rasaku manis. Buah apakah aku?",
+    "jawaban": "Blackberry"
+  },
+  {
+    "index": 78,
+    "soal": "Kulitku kuning kehijauan, dagingku putih, rasaku asam. Buah apakah aku?",
+    "jawaban": "Lime"
+  },
+  {
+    "index": 79,
+    "soal": "Aku buah tropis, kulitku berduri halus, rasaku manis asam. Buah apakah aku?",
+    "jawaban": "Sirsak"
+  },
+  {
+    "index": 80,
+    "soal": "Kulitku merah atau hijau, dagingku putih, tumbuh di kebun. Buah apakah aku?",
+    "jawaban": "Apel"
+  },
+  {
+    "index": 81,
+    "soal": "Aku buah kecil, warnaku merah cerah, tumbuh merunduk. Buah apakah aku?",
+    "jawaban": "Stroberi"
+  },
+  {
+    "index": 82,
+    "soal": "Kulitku hijau kecoklatan, dagingku kuning, rasaku manis. Buah apakah aku?",
+    "jawaban": "Sawo"
+  },
+  {
+    "index": 83,
+    "soal": "Aku buah tropis, kulitku ungu, dagingku putih berair. Buah apakah aku?",
+    "jawaban": "Manggis"
+  },
+  {
+    "index": 84,
+    "soal": "Kulitku oranye, bentukku bulat, rasaku manis segar. Buah apakah aku?",
+    "jawaban": "Jeruk"
+  },
+  {
+    "index": 85,
+    "soal": "Aku buah kecil, warnaku ungu kebiruan, rasaku manis. Buah apakah aku?",
+    "jawaban": "Anggur"
+  },
+  {
+    "index": 86,
+    "soal": "Kulitku hijau atau kuning, dagingku putih, rasaku manis. Buah apakah aku?",
+    "jawaban": "Pir"
+  },
+  {
+    "index": 87,
+    "soal": "Aku buah tropis, kulitku coklat keras, dagingku putih. Buah apakah aku?",
+    "jawaban": "Kelapa"
+  },
+  {
+    "index": 88,
+    "soal": "Kulitku merah muda, dagingku putih, rasaku segar. Buah apakah aku?",
+    "jawaban": "Jambu Air"
+  },
+  {
+    "index": 89,
+    "soal": "Aku buah kecil, warnaku merah gelap, rasaku asam manis. Buah apakah aku?",
+    "jawaban": "Cherry"
+  },
+  {
+    "index": 90,
+    "soal": "Kulitku hijau, dagingku kuning, aromaku harum manis. Buah apakah aku?",
+    "jawaban": "Mangga"
+  },
+  {
+    "index": 91,
+    "soal": "Aku buah tropis, kulitku berduri, rasaku manis lezat. Buah apakah aku?",
+    "jawaban": "Durian"
+  },
+  {
+    "index": 92,
+    "soal": "Kulitku kuning cerah, dagingku putih, rasaku asam. Buah apakah aku?",
+    "jawaban": "Lemon"
+  },
+  {
+    "index": 93,
+    "soal": "Aku buah kecil, warnaku merah muda, rasaku manis. Buah apakah aku?",
+    "jawaban": "Leci"
+  },
+  {
+    "index": 94,
+    "soal": "Kulitku hijau kecoklatan, dagingku hijau, rasaku creamy. Buah apakah aku?",
+    "jawaban": "Alpukat"
+  },
+  {
+    "index": 95,
+    "soal": "Aku buah tropis, kulitku merah, dagingku putih segar. Buah apakah aku?",
+    "jawaban": "Jambu"
+  },
+  {
+    "index": 96,
+    "soal": "Kulitku ungu kehitaman, dagingku kuning, rasaku manis. Buah apakah aku?",
+    "jawaban": "Prem"
+  },
+  {
+    "index": 97,
+    "soal": "Aku buah kecil, warnaku oranye, rasaku asam segar. Buah apakah aku?",
+    "jawaban": "Kumquat"
+  },
+  {
+    "index": 98,
+    "soal": "Kulitku hijau berbintik, dagingku putih, rasaku manis. Buah apakah aku?",
+    "jawaban": "Srikaya"
+  },
+  {
+    "index": 99,
+    "soal": "Aku buah tropis, kulitku bersisik, rasaku manis legit. Buah apakah aku?",
+    "jawaban": "Salak"
+  },
+  {
+    "index": 100,
+    "soal": "Kulitku kuning keemasan, dagingku oranye, rasaku manis asam. Buah apakah aku?",
+    "jawaban": "Markisa"
+  }
+]

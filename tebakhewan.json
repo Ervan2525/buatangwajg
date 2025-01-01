@@ -1,0 +1,508 @@
+
+[
+  {
+    "index": 0,
+    "soal": "Aku adalah hewan yang suka berenang, tubuhku bersisik, aku hidup di air. Hewan apakah aku?",
+    "jawaban": "Ikan"
+  },
+  {
+    "index": 1,
+    "soal": "Aku memiliki belalai panjang, telingaku lebar, tubuhku besar dan kuat. Hewan apakah aku?",
+    "jawaban": "Gajah"
+  },
+  {
+    "index": 2,
+    "soal": "Aku raja hutan, suaraku mengaum, aku suka berburu. Hewan apakah aku?",
+    "jawaban": "Singa"
+  },
+  {
+    "index": 3,
+    "soal": "Aku suka melompat-lompat, aku membawa anakku dalam kantong. Hewan apakah aku?",
+    "jawaban": "Kangguru"
+  },
+  {
+    "index": 4,
+    "soal": "Aku hewan nocturnal, aku terbang di malam hari, aku tidur terbalik. Hewan apakah aku?",
+    "jawaban": "Kelelawar"
+  },
+  {
+    "index": 5,
+    "soal": "Aku suka memanjat pohon, aku suka makan pisang, aku mirip manusia. Hewan apakah aku?",
+    "jawaban": "Monyet"
+  },
+  {
+    "index": 6,
+    "soal": "Leherku sangat panjang, aku pemakan daun-daunan, aku hewan tertinggi. Hewan apakah aku?",
+    "jawaban": "Jerapah"
+  },
+  {
+    "index": 7,
+    "soal": "Aku bisa berubah warna sesuai lingkungan, lidahku panjang, aku merayap. Hewan apakah aku?",
+    "jawaban": "Bunglon"
+  },
+  {
+    "index": 8,
+    "soal": "Aku berlari sangat cepat, aku berbintik-bintik, aku suka berburu. Hewan apakah aku?",
+    "jawaban": "Cheetah"
+  },
+  {
+    "index": 9,
+    "soal": "Aku hidup di dua alam, aku bisa berenang dan di darat, kulitku licin. Hewan apakah aku?",
+    "jawaban": "Katak"
+  },
+  {
+    "index": 10,
+    "soal": "Aku hewan yang setia, aku suka menggonggong, aku sahabat manusia. Hewan apakah aku?",
+    "jawaban": "Anjing"
+  },
+  {
+    "index": 11,
+    "soal": "Aku suka mendengkur, aku pemburu tikus, aku peliharaan populer. Hewan apakah aku?",
+    "jawaban": "Kucing"
+  },
+  {
+    "index": 12,
+    "soal": "Aku pandai berenang, aku mamalia laut, aku suka melompat di air. Hewan apakah aku?",
+    "jawaban": "Lumba-lumba"
+  },
+  {
+    "index": 13,
+    "soal": "Aku hewan pengerat, aku suka keju, aku takut kucing. Hewan apakah aku?",
+    "jawaban": "Tikus"
+  },
+  {
+    "index": 14,
+    "soal": "Aku bisa terbang, suaraku merdu, aku suka makan biji-bijian. Hewan apakah aku?",
+    "jawaban": "Burung"
+  },
+  {
+    "index": 15,
+    "soal": "Aku reptil besar, aku hidup di air, gigiku tajam. Hewan apakah aku?",
+    "jawaban": "Buaya"
+  },
+  {
+    "index": 16,
+    "soal": "Aku lambat jalannya, aku punya rumah di punggung, aku bisa masuk ke dalamnya. Hewan apakah aku?",
+    "jawaban": "Kura-kura"
+  },
+  {
+    "index": 17,
+    "soal": "Aku bisa berdiri dengan satu kaki, leherku panjang, aku suka ikan. Hewan apakah aku?",
+    "jawaban": "Flamingo"
+  },
+  {
+    "index": 18,
+    "soal": "Aku tinggal di kutub, aku suka ikan, aku tidak bisa terbang. Hewan apakah aku?",
+    "jawaban": "Pinguin"
+  },
+  {
+    "index": 19,
+    "soal": "Aku bisa membuat sarang dari air liur, sarangku bisa dimakan. Hewan apakah aku?",
+    "jawaban": "Burung Walet"
+  },
+  {
+    "index": 20,
+    "soal": "Aku bisa melompat tinggi, aku suka wortel, telingaku panjang. Hewan apakah aku?",
+    "jawaban": "Kelinci"
+  },
+  {
+    "index": 21,
+    "soal": "Aku punya duri di tubuh, aku bisa menggulung, aku makan serangga. Hewan apakah aku?",
+    "jawaban": "Landak"
+  },
+  {
+    "index": 22,
+    "soal": "Aku mamalia berkantung, aku tidur di siang hari, aku suka eucalyptus. Hewan apakah aku?",
+    "jawaban": "Koala"
+  },
+  {
+    "index": 23,
+    "soal": "Aku bisa memutar kepala 180 derajat, aku aktif malam hari, aku simbol kebijaksanaan. Hewan apakah aku?",
+    "jawaban": "Burung Hantu"
+  },
+  {
+    "index": 24,
+    "soal": "Aku bisa memutuskan ekorku, aku merayap di dinding, aku makan serangga. Hewan apakah aku?",
+    "jawaban": "Cicak"
+  },
+  {
+    "index": 25,
+    "soal": "Aku bisa membuat madu, aku hidup berkelompok, aku punya sengat. Hewan apakah aku?",
+    "jawaban": "Lebah"
+  },
+  {
+    "index": 26,
+    "soal": "Aku bisa menggali tanah, aku hidup di bawah tanah, aku takut cahaya. Hewan apakah aku?",
+    "jawaban": "Cacing"
+  },
+  {
+    "index": 27,
+    "soal": "Aku punya tanduk besar, aku pemakan rumput, aku suka berkelahi. Hewan apakah aku?",
+    "jawaban": "Banteng"
+  },
+  {
+    "index": 28,
+    "soal": "Aku punya bulu indah, aku bisa mengembangkan ekor, aku simbol keanggunan. Hewan apakah aku?",
+    "jawaban": "Merak"
+  },
+  {
+    "index": 29,
+    "soal": "Aku bisa membuat jaring, aku punya 8 kaki, aku makan serangga. Hewan apakah aku?",
+    "jawaban": "Laba-laba"
+  },
+  {
+    "index": 30,
+    "soal": "Aku bisa menyemburkan tinta hitam, aku punya tentakel, aku hidup di laut. Hewan apakah aku?",
+    "jawaban": "Gurita"
+  },
+  {
+    "index": 31,
+    "soal": "Aku bisa membuat suara 'kukuruyuk', aku bangun pagi-pagi, aku pemimpin ayam. Hewan apakah aku?",
+    "jawaban": "Ayam Jantan"
+  },
+  {
+    "index": 32,
+    "soal": "Aku bisa mengangkat beban berat, aku punya punuk, aku tahan haus. Hewan apakah aku?",
+    "jawaban": "Unta"
+  },
+  {
+    "index": 33,
+    "soal": "Aku bisa mengeluarkan duri, aku hidup di laut, aku berjalan di dasar. Hewan apakah aku?",
+    "jawaban": "Bintang Laut"
+  },
+  {
+    "index": 34,
+    "soal": "Aku punya tanduk bercabang, aku pemakan rumput, aku hidup di hutan. Hewan apakah aku?",
+    "jawaban": "Rusa"
+  },
+  {
+    "index": 35,
+    "soal": "Aku bisa memanjat pohon kelapa, aku suka makan kelapa, aku pengerat besar. Hewan apakah aku?",
+    "jawaban": "Tupai"
+  },
+  {
+    "index": 36,
+    "soal": "Aku bisa mengeluarkan listrik, aku hidup di air, aku berbentuk belut. Hewan apakah aku?",
+    "jawaban": "Belut Listrik"
+  },
+  {
+    "index": 37,
+    "soal": "Aku bisa membuat suara merdu, aku suka makan ulat, aku kecil dan berwarna. Hewan apakah aku?",
+    "jawaban": "Kenari"
+  },
+  {
+    "index": 38,
+    "soal": "Aku bisa melompat jauh, aku hidup di padang rumput, aku makan serangga. Hewan apakah aku?",
+    "jawaban": "Belalang"
+  },
+  {
+    "index": 39,
+    "soal": "Aku bisa berenang cepat, aku punya sirip tajam, aku ditakuti di laut. Hewan apakah aku?",
+    "jawaban": "Hiu"
+  },
+  {
+    "index": 40,
+    "soal": "Aku bisa membuat sarang di tanah, aku hidup berkelompok, aku pekerja keras. Hewan apakah aku?",
+    "jawaban": "Semut"
+  },
+  {
+    "index": 41,
+    "soal": "Aku bisa mengubah bentuk, aku mulai sebagai ulat, aku punya sayap indah. Hewan apakah aku?",
+    "jawaban": "Kupu-kupu"
+  },
+  {
+    "index": 42,
+    "soal": "Aku bisa mengeluarkan racun, aku merayap di tanah, aku tidak punya kaki. Hewan apakah aku?",
+    "jawaban": "Ular"
+  },
+  {
+    "index": 43,
+    "soal": "Aku bisa membuat suara keras, aku keluar saat hujan, aku hidup di tanah. Hewan apakah aku?",
+    "jawaban": "Kodok"
+  },
+  {
+    "index": 44,
+    "soal": "Aku bisa terbang mundur, aku suka nectar, aku sekecil jari. Hewan apakah aku?",
+    "jawaban": "Kolibri"
+  },
+  {
+    "index": 45,
+    "soal": "Aku bisa hidup lama tanpa makan, aku merayap lambat, aku bawa rumah. Hewan apakah aku?",
+    "jawaban": "Siput"
+  },
+  {
+    "index": 46,
+    "soal": "Aku bisa meniru suara, aku punya paruh bengkok, aku berwarna-warni. Hewan apakah aku?",
+    "jawaban": "Burung Nuri"
+  },
+  {
+    "index": 47,
+    "soal": "Aku bisa memanjat pohon, aku punya kantong, aku makan eucalyptus. Hewan apakah aku?",
+    "jawaban": "Koala"
+  },
+  {
+    "index": 48,
+    "soal": "Aku bisa membuat suara 'meong', aku suka berburu tikus, aku lincah. Hewan apakah aku?",
+    "jawaban": "Kucing"
+  },
+  {
+    "index": 49,
+    "soal": "Aku bisa menggali lubang, aku hidup di padang rumput, aku pengerat. Hewan apakah aku?",
+    "jawaban": "Marmut"
+  },
+  {
+    "index": 50,
+    "soal": "Aku bisa berenang cepat, aku mamalia laut besar, aku menyemburkan air. Hewan apakah aku?",
+    "jawaban": "Paus"
+  },
+  {
+    "index": 51,
+    "soal": "Aku bisa berjalan menyamping, aku hidup di pantai, aku punya capit. Hewan apakah aku?",
+    "jawaban": "Kepiting"
+  },
+  {
+    "index": 52,
+    "soal": "Aku bisa membuat suara 'embek', aku suka makan rumput, aku punya jenggot. Hewan apakah aku?",
+    "jawaban": "Kambing"
+  },
+  {
+    "index": 53,
+    "soal": "Aku bisa terbang tinggi, aku pemakan daging, aku punya penglihatan tajam. Hewan apakah aku?",
+    "jawaban": "Elang"
+  },
+  {
+    "index": 54,
+    "soal": "Aku bisa melompat-lompat, aku hidup di air dan darat, aku kecil hijau. Hewan apakah aku?",
+    "jawaban": "Katak"
+  },
+  {
+    "index": 55,
+    "soal": "Aku bisa membuat suara 'moo', aku memberi susu, aku makan rumput. Hewan apakah aku?",
+    "jawaban": "Sapi"
+  },
+  {
+    "index": 56,
+    "soal": "Aku bisa berenang cepat, aku punya cangkang keras, aku hidup lama. Hewan apakah aku?",
+    "jawaban": "Penyu"
+  },
+  {
+    "index": 57,
+    "soal": "Aku bisa membuat sarang di pohon, aku suka kacang, aku berekor panjang. Hewan apakah aku?",
+    "jawaban": "Tupai"
+  },
+  {
+    "index": 58,
+    "soal": "Aku bisa mengeluarkan bau busuk, aku hitam putih, aku hidup di hutan. Hewan apakah aku?",
+    "jawaban": "Musang"
+  },
+  {
+    "index": 59,
+    "soal": "Aku bisa membuat suara 'hee-haw', aku suka mengangkut beban, aku keras kepala. Hewan apakah aku?",
+    "jawaban": "Keledai"
+  },
+  {
+    "index": 60,
+    "soal": "Aku bisa menggali tanah, aku punya cangkang keras, aku lambat. Hewan apakah aku?",
+    "jawaban": "Kura-kura"
+  },
+  {
+    "index": 61,
+    "soal": "Aku bisa membuat sarang di rumah, aku suka serangga, aku berbunyi 'cit-cit'. Hewan apakah aku?",
+    "jawaban": "Tikus"
+  },
+  {
+    "index": 62,
+    "soal": "Aku bisa berenang jauh, aku bertelur di pantai, aku tua dan bijak. Hewan apakah aku?",
+    "jawaban": "Penyu"
+  },
+  {
+    "index": 63,
+    "soal": "Aku bisa memanjat pohon, aku nokturnal, aku punya mata besar. Hewan apakah aku?",
+    "jawaban": "Kukang"
+  },
+  {
+    "index": 64,
+    "soal": "Aku bisa membuat rumah dari liur, aku terbang berkelompok, aku kecil. Hewan apakah aku?",
+    "jawaban": "Burung Walet"
+  },
+  {
+    "index": 65,
+    "soal": "Aku bisa menggali lubang dalam, aku hidup di bawah tanah, aku hampir buta. Hewan apakah aku?",
+    "jawaban": "Tikus Tanah"
+  },
+  {
+    "index": 66,
+    "soal": "Aku bisa melompat tinggi, aku nokturnal, aku punya kantong. Hewan apakah aku?",
+    "jawaban": "Kanguru"
+  },
+  {
+    "index": 67,
+    "soal": "Aku bisa membuat suara keras, aku berbulu lebat, aku raja hutan. Hewan apakah aku?",
+    "jawaban": "Singa"
+  },
+  {
+    "index": 68,
+    "soal": "Aku bisa berenang cepat, aku punya sirip dan sisik, aku hidup di laut. Hewan apakah aku?",
+    "jawaban": "Ikan"
+  },
+  {
+    "index": 69,
+    "soal": "Aku bisa terbang jauh, aku punya paruh panjang, aku makan ikan. Hewan apakah aku?",
+    "jawaban": "Bangau"
+  },
+  {
+    "index": 70,
+    "soal": "Aku bisa memanjat dinding, aku kecil dan cepat, aku makan serangga. Hewan apakah aku?",
+    "jawaban": "Cicak"
+  },
+  {
+    "index": 71,
+    "soal": "Aku bisa membuat suara 'guk-guk', aku setia pada manusia, aku suka tulang. Hewan apakah aku?",
+    "jawaban": "Anjing"
+  },
+  {
+    "index": 72,
+    "soal": "Aku bisa mengeluarkan tinta, aku punya delapan lengan, aku pintar. Hewan apakah aku?",
+    "jawaban": "Gurita"
+  },
+  {
+    "index": 73,
+    "soal": "Aku bisa menggulung badan, aku berduri, aku takut bahaya. Hewan apakah aku?",
+    "jawaban": "Landak"
+  },
+  {
+    "index": 74,
+    "soal": "Aku bisa membuat sarang di tanah, aku hidup berkelompok, aku rajin. Hewan apakah aku?",
+    "jawaban": "Semut"
+  },
+  {
+    "index": 75,
+    "soal": "Aku bisa berenang di air tawar, aku punya kumis panjang, aku suka ikan. Hewan apakah aku?",
+    "jawaban": "Lele"
+  },
+  {
+    "index": 76,
+    "soal": "Aku bisa terbang malam, aku tidur siang, aku makan buah. Hewan apakah aku?",
+    "jawaban": "Kelelawar"
+  },
+  {
+    "index": 77,
+    "soal": "Aku bisa memanjat pohon, aku suka pisang, aku cerdas. Hewan apakah aku?",
+    "jawaban": "Monyet"
+  },
+  {
+    "index": 78,
+    "soal": "Aku bisa membuat suara merdu, aku berwarna-warni, aku suka biji bunga matahari. Hewan apakah aku?",
+    "jawaban": "Burung Kenari"
+  },
+  {
+    "index": 79,
+    "soal": "Aku bisa berenang di air deras, aku punya sisik mengkilap, aku melompati air terjun. Hewan apakah aku?",
+    "jawaban": "Ikan Salmon"
+  },
+  {
+    "index": 80,
+    "soal": "Aku bisa berkamuflase, aku berjalan menyamping, aku hidup di laut. Hewan apakah aku?",
+    "jawaban": "Kepiting"
+  },
+  {
+    "index": 81,
+    "soal": "Aku bisa membuat sarang di pohon, aku suka kacang, aku lincah. Hewan apakah aku?",
+    "jawaban": "Tupai"
+  },
+  {
+    "index": 82,
+    "soal": "Aku bisa berlari cepat, aku berbintik-bintik, aku kucing besar. Hewan apakah aku?",
+    "jawaban": "Macan Tutul"
+  },
+  {
+    "index": 83,
+    "soal": "Aku bisa menggali lubang, aku punya cangkang keras, aku hidup lama. Hewan apakah aku?",
+    "jawaban": "Kura-kura"
+  },
+  {
+    "index": 84,
+    "soal": "Aku bisa melompat jauh, aku hidup di padang rumput, aku makan rumput. Hewan apakah aku?",
+    "jawaban": "Kanguru"
+  },
+  {
+    "index": 85,
+    "soal": "Aku bisa membuat madu, aku terbang dari bunga ke bunga, aku punya sengat. Hewan apakah aku?",
+    "jawaban": "Lebah"
+  },
+  {
+    "index": 86,
+    "soal": "Aku bisa meniru suara, aku berwarna-warni, aku punya paruh bengkok. Hewan apakah aku?",
+    "jawaban": "Burung Beo"
+  },
+  {
+    "index": 87,
+    "soal": "Aku bisa berenang cepat, aku mamalia laut, aku cerdas. Hewan apakah aku?",
+    "jawaban": "Lumba-lumba"
+  },
+  {
+    "index": 88,
+    "soal": "Aku bisa membuat jaring, aku punya delapan kaki, aku pemburu serangga. Hewan apakah aku?",
+    "jawaban": "Laba-laba"
+  },
+  {
+    "index": 89,
+    "soal": "Aku bisa mengubah warna, aku merayap pelan, aku punya lidah panjang. Hewan apakah aku?",
+    "jawaban": "Bunglon"
+  },
+  {
+    "index": 90,
+    "soal": "Aku bisa terbang tinggi, aku pemburu handal, aku punya cakar tajam. Hewan apakah aku?",
+    "jawaban": "Rajawali"
+  },
+  {
+    "index": 91,
+    "soal": "Aku bisa mengeluarkan racun, aku merayap, aku berbisa. Hewan apakah aku?",
+    "jawaban": "Ular Kobra"
+  },
+  {
+    "index": 92,
+    "soal": "Aku bisa hidup di air dan darat, aku punya insang dan paru-paru, aku bertelur. Hewan apakah aku?",
+    "jawaban": "Salamander"
+  },
+  {
+    "index": 93,
+    "soal": "Aku bisa membuat suara 'kukuruyuk', aku jantan, aku membangunkan orang pagi hari. Hewan apakah aku?",
+    "jawaban": "Ayam Jago"
+  },
+  {
+    "index": 94,
+    "soal": "Aku bisa menggali tanah, aku makan serangga, aku berbulu tebal. Hewan apakah aku?",
+    "jawaban": "Trenggiling"
+  },
+  {
+    "index": 95,
+    "soal": "Aku bisa berenang di es, aku makan ikan, aku berbulu putih. Hewan apakah aku?",
+    "jawaban": "Beruang Kutub"
+  },
+  {
+    "index": 96,
+    "soal": "Aku bisa melompat tinggi, aku suka wortel, aku punya telinga panjang. Hewan apakah aku?",
+    "jawaban": "Kelinci"
+  },
+  {
+    "index": 97,
+    "soal": "Aku bisa memanjat bambu, aku hitam putih, aku suka bambu. Hewan apakah aku?",
+    "jawaban": "Panda"
+  },
+  {
+    "index": 98,
+    "soal": "Aku bisa berlari kencang, aku punya surai, aku ditunggangi manusia. Hewan apakah aku?",
+    "jawaban": "Kuda"
+  },
+  {
+    "index": 99,
+    "soal": "Aku bisa terbang jauh, aku pembawa pesan, aku berwarna abu-abu. Hewan apakah aku?",
+    "jawaban": "Merpati"
+  },
+  {
+    "index": 100,
+    "soal": "Aku bisa mengeluarkan duri beracun, aku hidup di laut, aku berwarna-warni. Hewan apakah aku?",
+    "jawaban": "Ikan Buntal"
+  }
+]
